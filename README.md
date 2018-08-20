@@ -6,6 +6,6 @@
 
 ### Screenshot
 
-![Image of js execution time](/screenshot.png)
+![Image of js execution time](/screenshot.PNG)
 
 :blush:
